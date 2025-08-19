@@ -1,3 +1,4 @@
+//Estevão Jose Jesus de Oliveira | 3°C | Data: 19/08/2025
 document.addEventListener("DOMContentLoaded", function(){
     const botaoDeAcessibilidade = document.getElementById("botao-acessibilidade")
     const opcoesDeAcessibilidade = document.getElementById("opcoes-acessibilidade")
